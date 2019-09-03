@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="phananh.com.ui.CuaSoCuaToi"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.api.server.Container"/>
+<fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+<fullyQualifiedTypeName name="phananh.com.ui.FlowLayoutUI"/>
+<fullyQualifiedTypeName name="javax.swing.BoxLayout"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="phananh.com.ui.BoxLayout"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="java.awt.Container"/>
+<fullyQualifiedTypeName name="javax.swing.border.Border"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+<fullyQualifiedTypeName name="phananh.com.ui.BorderLayoutUI"/>
+<fullyQualifiedTypeName name="java.awt.Dimension"/>
+<fullyQualifiedTypeName name="Address"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.oracle.xmlns.internal.webservices.jaxws_databinding.ExistingAnnotationsType"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="phananh.com.Inventory"/>
+<fullyQualifiedTypeName name="phananh.com.Builder"/>
+<fullyQualifiedTypeName name="phananh.com.Type"/>
+<fullyQualifiedTypeName name="phananh.com.Wood"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="phananh.com.Guitar"/>
+<fullyQualifiedTypeName name="Guitar"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="phananh.com.vn.Builder"/>
+<fullyQualifiedTypeName name="phananh.com.vn.Type"/>
+<fullyQualifiedTypeName name="phananh.com.vn.Wood"/>
+<fullyQualifiedTypeName name="phananh.com.vn.GuitarSpec"/>
+</qualifiedTypeNameHistroy>

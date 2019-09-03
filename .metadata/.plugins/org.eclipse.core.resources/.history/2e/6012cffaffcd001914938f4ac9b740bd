@@ -1,0 +1,31 @@
+package phananh.com.vn;
+
+public class Guitar {
+	private String serialNumber;
+	private String price;
+	private GuitarSpec guitarSpec;
+	
+	public Guitar(String serialNumber, String price, GuitarSpec guitarSpec) {
+		super();
+		this.serialNumber = serialNumber;
+		this.price = price;
+		this.guitarSpec = guitarSpec;
+	}
+
+	public String getSerialNumber() {
+		return serialNumber;
+	}
+	
+	public String getPrice() {
+		return price;
+	}
+	public void setPrice(String price) {
+		this.price = price;
+	}
+	public GuitarSpec getGuitarSpec() {
+		return guitarSpec;
+	}
+	
+	
+	
+}

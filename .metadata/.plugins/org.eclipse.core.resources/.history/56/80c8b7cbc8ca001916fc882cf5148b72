@@ -1,0 +1,24 @@
+package phananh.com;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Inventory {
+	private List<Guitar> guitars;
+
+	public Inventory() {
+		guitars = new ArrayList<Guitar>();
+	}
+	
+	public void addGuitar(String serialNumber, double price, Builder builder, String model, Type type, Wood backWood, Wood topWood) {
+		Guitar guitar = new Guitar(serialNumber, price, builder, model, type, backWood, topWood);
+		guitars.add(guitar)
+	}
+	
+	public Guitar getGuitars(String serialNumber) {
+		
+		
+		return null;
+	}
+	
+}

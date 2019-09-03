@@ -1,0 +1,8 @@
+package phananh.com.vn;
+
+public class GuitarSpec {
+	private Builder builder;
+	private Type type;
+	private Wood topWood;
+	private Wood backWood;
+}

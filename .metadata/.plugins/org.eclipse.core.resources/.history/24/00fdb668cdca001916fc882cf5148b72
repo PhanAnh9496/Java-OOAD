@@ -1,0 +1,13 @@
+package phananh.com;
+
+public enum Type {
+	ACOUSTIC, ELECTRIC;
+	@Override
+	public String toString() {
+		switch (this) {
+			case ASCOUSTIC: return "Ascoustic";
+			case ELECTRIC: return "Electric";
+			default: return "unspecified";
+		}
+	}
+}

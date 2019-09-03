@@ -1,0 +1,7 @@
+package phananh.com.vn;
+
+public class Guitar {
+	private String serialNumber;
+	private String price;
+	private GuitarSpec guitarSpec;
+}
